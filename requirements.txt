@@ -1,0 +1,7 @@
+streamlit
+pillow
+streamlit-aggrid
+psycopg2-binary
+altair
+seaborn
+streamlit
